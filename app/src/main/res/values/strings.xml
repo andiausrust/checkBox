@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">checkBox</string>
+    <string name="question">Who is your favourite person?</string>
+    <string name="mom" >mom</string>
+    <string name="dad">dad</string>
+    <string name="grandpa">grandpa</string>
+    <string name="show" />
+    <string name="show_button">Show</string>
+</resources>
